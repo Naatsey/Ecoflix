@@ -58,6 +58,7 @@ Pour visualiser le projet Ecoflix :
 
 Ce projet a été réalisé par :  
 - **Nathan Philippe**  
-- **Ilyes Mobarek**  
+- **Ilyes Mobarek**
+- **Alex Marescaux**
 
 Rejoignez l’initiative fictive Ecoflix pour une collaboration plus verte et plus solidaire !
