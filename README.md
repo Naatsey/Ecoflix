@@ -1,6 +1,6 @@
 # Ecoflix
 
-**Développé par :** Nathan Philippe, Ilyes Mobarek
+**Développé par :** Nathan Philippe, Ilyes Mobarek et Alex Marescaux
 
 ---
 
