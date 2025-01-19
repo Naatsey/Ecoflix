@@ -4,14 +4,6 @@
 
 ---
 
-## Table des matières
-- [Présentation de Ecoflix](#présentation-de-ecoflix)
-- [Pourquoi choisir le covoiturage avec Ecoflix ?](#pourquoi-choisir-le-covoiturage-avec-ecoflix-?)
-- [Utilisation du site](#utilisation-du-site)
-- [Crédits](#crédits)
-
----
-
 ## Présentation de Ecoflix
 
 Le projet **Ecoflix** est une initiative fictive réalisée dans le cadre d'un exercice universitaire en BUT Informatique.  
