@@ -6,7 +6,7 @@
 
 ## Table des matières
 - [Présentation de Ecoflix](#présentation-de-ecoflix)
-- [Pourquoi choisir le covoiturage avec Ecoflix ?](#pourquoi-choisir-le-covoiturage-avec-ecoflix)
+- [Pourquoi choisir le covoiturage avec Ecoflix ?](#pourquoi-choisir-le-covoiturage-avec-ecoflix-?)
 - [Utilisation du site](#utilisation-du-site)
 - [Crédits](#crédits)
 
